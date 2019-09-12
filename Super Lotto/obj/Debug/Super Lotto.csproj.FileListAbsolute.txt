@@ -1,0 +1,23 @@
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\Super Lotto.exe.config
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\Super Lotto.exe
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\Super Lotto.pdb
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\HtmlAgilityPack.dll
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\HtmlAgilityPack.pdb
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\HtmlAgilityPack.xml
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\MainWindow.g.cs
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\App.g.cs
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto_MarkupCompile.cache
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto_MarkupCompile.lref
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\MainWindow.baml
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.g.resources
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super_Lotto.Properties.Resources.resources
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.csproj.GenerateResource.Cache
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.exe
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.pdb
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.TrustInfo.xml
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\Super Lotto.exe.manifest
+H:\vsProject\Super Lotto\Super Lotto\bin\Debug\Super Lotto.application
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.exe.manifest
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.application
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.csproj.CoreCompileInputs.cache
+H:\vsProject\Super Lotto\Super Lotto\obj\Debug\Super Lotto.csproj.CopyComplete
